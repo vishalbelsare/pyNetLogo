@@ -4,3 +4,6 @@ build path.
 
 pynetlogo uses the jar file suitable for the specified/identified version of
 netlogo.
+
+
+jar cfv netlogolink63.jar *
